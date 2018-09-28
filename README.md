@@ -7,7 +7,9 @@
 
 * This is just a dummy Website meant for learning. 
 
-* Website Link - https://leather-store.000webhostapp.com/ 
+## Website Link
+* [Leather Store](https://leather-store.000webhostapp.com/) 
 
-* You can get a free hosting and domain at - https://in.000webhost.com/
+## Hosting And Domain
+* Get free hosting and domain at - [000Webhost](https://in.000webhost.com/)
 
