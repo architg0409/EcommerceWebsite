@@ -1,0 +1,104 @@
+@font-face{
+    font-family:Roboto;
+    src: url('../Fonts/Roboto-Regular.ttf')
+}
+body{
+    font-family: Roboto;
+}
+#banner_image{
+    padding-top:75px;
+    padding-bottom:50px;
+    margin-bottom:70px; 
+    text-align:center;
+    color:#f8f8f8;
+    background: url(img/11.jpg) no-repeat center center;
+    background-size:cover;
+    height:600px; 
+}
+#banner_content{
+    position:relative;
+    padding-top:6%;
+    padding-bottom:6%;
+    margin-top:8%;
+    margin-bottom:12%;
+    background-color:rgba(0,0,0,0.7);
+    width:660px;
+    margin-left:16%;
+    margin-right:500px;
+    
+}
+.ali{
+    text-align: center;
+                    
+}
+footer{
+    padding:10px 0px;
+    background-color:#101010;
+    color:#9d9d9d;
+    bottom:0;
+    width:100%;
+}
+.row_style{
+    margin-top:100px;
+    margin-bottom:120px; 
+}
+.row_style2{
+    margin-top:100px;
+    margin-bottom:204px; 
+}
+.row_style3{
+    margin-top:109px;
+    margin-bottom:240px; 
+}
+.row_style4{
+    margin-top:109px;
+    margin-bottom:370px; 
+}
+.row_style5{
+    margin-top:110px;
+    border-bottom: 1px solid #ddd;
+    
+}
+.row_style6{
+    margin-top: 40px; 
+}
+.row_style7{
+    margin-bottom:40px; 
+}
+.row_style8{
+    margin-top:10px;
+    margin-bottom:50px; 
+}
+.row_style9{
+    margin-top: 100px;
+    margin-bottom: 240px;
+}
+.row_style10{
+    margin-top :100px;
+    margin-bottom: 10px;
+}
+
+a:hover{
+    
+    cursor: pointer;
+}
+.primary{
+    background-color: rgb(66,139,202);
+    color: rgb(255,255,255);
+}
+
+.navbar-default {
+    background-color: rgb(70,130,180);
+}
+.navbar-default .navbar-nav > li > a {
+    color: rgb(255,255,255);
+}
+.navbar-default .navbar-brand{
+    color: rgb(255,255,255);
+}
+.navbar-default .navbar-header .navbar-toggle{
+   background-color: rgb(70,130,180); 
+}
+.navbar-default .navbar-header .navbar-toggle .icon-bar {
+    background-color: rgb(255,255,255);
+}
